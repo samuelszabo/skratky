@@ -19,3 +19,6 @@
 `composer install --no-dev --optimize-autoloader`
 
 
+# Command aliases
+
+git config --global alias.res "reset --soft HEAD~1"
