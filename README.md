@@ -8,7 +8,7 @@
 
 ### Rozdelenie veľkého PR
 
-`git reset --soft origin/master`
+`git reset --soft master`
 
 ## web + php
 
